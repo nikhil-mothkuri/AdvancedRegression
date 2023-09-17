@@ -16,6 +16,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ## Table of Contents
 HouseSales_Price_Prediction.ipynb # This file contains the model regression analysis of linear, ridge and lasso regression including comments
+Advanced_Regression.pdf # This file contains all the answers to the four questions asked.
 Technologies Used: # Python
 
 
